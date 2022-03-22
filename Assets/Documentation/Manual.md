@@ -53,7 +53,7 @@ pressing a key on the keyboard.
 -   `Open Speed Multiplier` - Float for how fast the door opens.
 -   `Door Body` Reference to the door's model to open.
 
-Custom Axis is used for the key press, default 'K', editable in the
+Custom Axis is used for the key press, default `K`, editable in the
 Input Manager.
 
 UI\_KeyHolder

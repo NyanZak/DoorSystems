@@ -1,9 +1,6 @@
 Door Systems Guide
 ==================
 
-Heading level 1
-===============
-
 This documentation describes how to use the `Door Systems` component in
 your project.
 
